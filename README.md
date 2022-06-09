@@ -16,3 +16,12 @@ In making some of these ML Models using Image Augmentation to get data from a de
 
 
 Both types of category classification have gone through the process of training, validation and testing with an accuracy result of around 99%.
+
+For more information about the dataset that has been explored and divided into training, validation and test, you can use this [link](https://drive.google.com/drive/folders/10fiUN1nmS1zw8etg_tb0cA8o0N8yDLZB?usp=sharing).
+
+For more information about models that have been deployed in h5, tflite and js formats, you can use the link below:
+
+
+* [2 Categorical Classes](https://drive.google.com/drive/folders/1X9FU39Bkd2Jj-Hra7dnof8JXFOkFg-h7?usp=sharing)
+* [6 Categorical Classes](https://drive.google.com/drive/folders/1NPTHrcOaOTaf13i8NRE2cB99wg_8kEAZ?usp=sharing)
+
