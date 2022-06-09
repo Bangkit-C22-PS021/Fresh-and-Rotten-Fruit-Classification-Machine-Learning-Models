@@ -9,10 +9,10 @@ The Machine Learning (ML) model in this folder is a model that functions to dete
 From the results of the exploration of various parameters and pre-trained models, we found the four best models in our opinion, including:
 
 
-* [Fresh and Rotten Fruit Classification with CNN Model]
-* [Fresh and Rotten Fruit Classification CNN Model with Image Augmentations] 
-* [Fresh and Rotten Fruit Classification with MobileNetV2 Model]
-* [Fresh and Rotten Fruit Classification MobileNetV2 Model with Image Augmentations]
+* [Fresh and Rotten Fruit Classification with CNN Model](https://github.com/Bangkit-C22-PS021/model-ml-fruit-fresh/blob/main/2%20Categorical%20Class/fresh-and-rotten-fruit-classification-CNN/Bismillah_Capstone_Project_FIX_CNN.ipynb)
+* [Fresh and Rotten Fruit Classification CNN Model with Image Augmentations](https://github.com/Bangkit-C22-PS021/model-ml-fruit-fresh/blob/main/2%20Categorical%20Class/fresh-and-rotten-fruit-classification-CNN-with-image-augmentation/Bismillah_Capstone_Project_FIX_CNN_with_Image_Augmentation.ipynb)
+* [Fresh and Rotten Fruit Classification with MobileNetV2 Model](https://github.com/Bangkit-C22-PS021/model-ml-fruit-fresh/blob/main/2%20Categorical%20Class/fresh-and-rotten-fruit-classification-MobileNetV2/Bismillah_Capstone_Project_FIX_MobileNetV2.ipynb)
+* [Fresh and Rotten Fruit Classification MobileNetV2 Model with Image Augmentations](https://github.com/Bangkit-C22-PS021/model-ml-fruit-fresh/blob/main/2%20Categorical%20Class/fresh-and-rotten-fruit-classification-MobileNetV2-with-image-augmentation/Bismillah_Capstone_Project_FIX_MobileNetV2_with_Image_Augmentation.ipynb)
 
 
 From the two best model results, the results of training accuracy, validation accuracy and test accuracy are around 99%. In addition, the four models have also been tested on images that have never been seen before, these test images were obtained through Google Images and produced fairly accurate predictions.
